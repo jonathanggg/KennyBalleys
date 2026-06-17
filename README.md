@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnkQ/giphy.gif" width="200" alt="Cyberpunk Hacker GIF"/>
+  <img src="https://files.catbox.moe/sz835u.gif" width="200" alt="Cyberpunk Hacker GIF"/>
 
   <br><br>
 
