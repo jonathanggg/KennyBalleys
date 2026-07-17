@@ -58,7 +58,7 @@
         "fflate": "^0.8.2"
     },
     "devDependencies": {
-        "@sauruslord/eslint-config": "^2.0.0",
+        "@adiwajshing/eslint-config": "github:adiwajshing/eslint-config",
         "@types/got": "^9.6.11",
         "@types/jest": "^27.5.1",
         "@types/node": "^16.0.0",
